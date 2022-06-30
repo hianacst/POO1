@@ -1,3 +1,3 @@
 # POO1
-Ativida de collections
+Atividade de collections
 Aluna Hiana Costa da Silva
